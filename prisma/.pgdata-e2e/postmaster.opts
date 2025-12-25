@@ -1,0 +1,1 @@
+/opt/homebrew/Cellar/postgresql@14/14.20/bin/postgres "-D" "/Users/jiesen/Desktop/autonomous-coding/generations/bazi-master/prisma/.pgdata-e2e" "-p" "5433" "-h" "127.0.0.1"
